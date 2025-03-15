@@ -1,0 +1,18 @@
+# LINE-Ad-BlockList （AdGuard_format)
+# 
+# Homepage: https://github.com/minimal-enginner/LINE-Ad-BlockList
+#
+# Lastupdate: 2025-03-15
+#
+
+||im.c.yimg.jp^
+||a.line.me^
+||obs.line-scdn.net^
+||gw.line.naver.jp^
+||ad.line-scdn.net^
+||scdn.line-apps.com^
+||linevoom.line.me^
+||voom-assets.line-scdn.net^
+||voom-obs.line-scdn.net^
+||ch-news.line-apps.com^
+||square-api.line.me^
