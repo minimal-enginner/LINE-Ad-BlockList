@@ -1,9 +1,9 @@
-# LINE-Ad-BlockList （AdGuard_format)
-# 
-# Homepage: https://github.com/minimal-enginner/LINE-Ad-BlockList
-#
-# Lastupdate: 2025-03-15
-#
+[Adblock Plus 2.0]
+! Title: LINE-Ad-BlockList
+! Homepage: https://github.com/minimal-enginner/LINE-Ad-BlockList
+!
+! Lastupdate: 2025-07-07
+!
 
 ||im.c.yimg.jp^
 ||a.line.me^
