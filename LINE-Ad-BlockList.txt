@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! Title: LINE-Ad-BlockList
 ! Homepage: https://github.com/minimal-enginner/LINE-Ad-BlockList
 !
@@ -18,3 +17,4 @@
 ||square-api.line.me^
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
+||ad.line-scdn.net^
