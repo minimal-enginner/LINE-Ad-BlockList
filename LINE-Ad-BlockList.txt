@@ -1,4 +1,4 @@
-! Title: LINE-Ad-BlockList
+! Title: LINE-Ad-BlockList(develop)
 ! Homepage: https://github.com/minimal-enginner/LINE-Ad-BlockList
 !
 ! Lastupdate: 2026-01-27
