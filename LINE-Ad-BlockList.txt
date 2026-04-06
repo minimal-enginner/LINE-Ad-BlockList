@@ -6,13 +6,20 @@
 
 ||im.c.yimg.jp^
 ||a.line.me^
-||obs.line-scdn.net^
-||gw.line.naver.jp^
 ||ad.line-scdn.net^
 ||scdn.line-apps.com^
 ||linevoom.line.me^
 ||voom-assets.line-scdn.net^
 ||voom-obs.line-scdn.net^
-||square-api.line.me^
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
+
+! LINE公式アカウント用ホワイトリスト
+! LINE公式アカウントが開かない場合
+@@||square-api.line.me^
+
+! 画像の送受信ができない場合
+@@||obs.line-scdn.net^
+
+! それでも動作しない場合
+@@||gw.line.naver.jp^
