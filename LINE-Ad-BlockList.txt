@@ -16,4 +16,3 @@
 ||square-api.line.me^
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
-||ad.line-scdn.net^
