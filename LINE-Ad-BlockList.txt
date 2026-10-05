@@ -1,20 +1,9 @@
 ! Title: LINE-Ad-BlockList(develop)
 ! Homepage: https://github.com/minimal-enginner/LINE-Ad-BlockList
 !
-! Lastupdate: 2026-09-30
+! Lastupdate: 2026-10-05
 !
 
 ||im.c.yimg.jp^
-||a.line.me^
-||obs.line-scdn.net^
-||gw.line.naver.jp^
 ||ad.line-scdn.net^
-||scdn.line-apps.com^
-||linevoom.line.me^
-||voom-assets.line-scdn.net^
-||voom-obs.line-scdn.net^
-||square-api.line.me^
-||crs-event.line.me^
-||crs-hometab-event.line.me^
 ||linecrs.line-scdn.net^
-||ad.line-scdn.net^
