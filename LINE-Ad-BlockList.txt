@@ -1,10 +1,11 @@
 ! Title: LINE-Ad-BlockList
 ! Homepage: https://github.com/minimal-enginner/LINE-Ad-BlockList
 !
-! Lastupdate: 2026-10-12
+! Lastupdate: 2026-10-24
 !
 
 ||im.c.yimg.jp^
 ||ad.line-scdn.net^
 ||linecrs.line-scdn.net^
 ||a.line.me^
+||da.flvcdn.net^
