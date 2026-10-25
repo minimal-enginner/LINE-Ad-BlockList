@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/minimal-enginner/LINE-Ad-BlockList/main/LINE-A
 - **Wi-Fiアシストをオフにしてください**（iPhoneの **設定 → モバイル通信 → Wi-Fiアシスト**）
   - オンのままだと、Wi-Fiの電波が弱いときに自動でモバイル通信に切り替わり、その間はブロックが効かないことがあります
 - **フィルタが最新か** 確認してください。DNSフィルタの画面で更新できます
-- **LINEのキャッシュ** が残っていると、しばらく前の広告が表示されることがあります。手順4をもう一度試してください
+- **一度表示された広告** は、画像がiPhoneに残っているため、LINEのキャッシュを削除しても表示されることがあります。新しい広告はブロックされるので、しばらくすると表示されなくなります
 - それでも消えない場合は、[Issues](https://github.com/minimal-enginner/LINE-Ad-BlockList/issues) で教えてください。表示された広告のスクリーンショットがあると助かります
 
 ## AdGuard Homeで使う場合
